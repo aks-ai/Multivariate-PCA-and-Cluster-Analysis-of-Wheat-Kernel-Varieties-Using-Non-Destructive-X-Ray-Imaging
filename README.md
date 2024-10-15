@@ -37,7 +37,6 @@ The following features were used for clustering and PCA:
 ## Models
 The following models were implemented:
 - K-Means Clustering
-- Hierarchical Clustering
 - PCA
 
 ## Results
